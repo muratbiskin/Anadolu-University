@@ -1,4 +1,4 @@
-|Yarıyıl|Ders Kodu|Ders İsmi|
+|Semester|Code|Name|
 |---|---|---|---|---|
 |  2 | BİL102U  | TEMEL BİLGİ TEKNOLOJİLERİ II |
 |  2 | HUK110U  | BORÇLAR HUKUKU |

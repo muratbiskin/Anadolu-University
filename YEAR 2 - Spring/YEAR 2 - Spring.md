@@ -1,9 +1,9 @@
-|Yarıyıl|Ders Kodu|Ders İsmi|
+|Semester|Code|Name|
 |---|---|---|---|---|
-|  2 | HUK211U  | TİCARET HUKUKU I |
-|  2 | İKT203U  | MİKRO İKTİSAT |
-|  2 | İST201U  |  İSTATİSTİK I |
-|  2 | İŞL205U  |  İŞLETME YÖNETİMİ |
-|  2 | İŞL207U  |  DÖNEMSONU İŞLEMLERİ |
-|  2 | İŞL209U  |  İŞLETME BİLGİ SİSTEMLERİ  
-|  2 | TAR201U  |  ATATÜRK İLKELERİ VE İNKILAP TARİHİ I
+|  4 | HUK212U  |  TİCARET HUKUKU II |
+|  4 | İKT204U  |  MAKRO İKTİSAT |
+|  4 | İST202U  |  İSTATİSTİK II |
+|  4 | KÜL202U  |  GÖRSEL KÜLTÜR |
+|  4 | MUH208U  |  MUHASEBEDE BİLGİ YÖNETİMİ |
+|  4 | PZL212U  |  TEDARİK ZİNCİRİ YÖNETİMİ  
+|  4 | TAR202U  |  ATATÜRK İLKELERİ VE İNKILAP TARİHİ II
