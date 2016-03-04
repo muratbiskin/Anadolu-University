@@ -1,1 +1,9 @@
-YEAR 1 - Spring
+|Yarıyıl|Ders Kodu|Ders İsmi|
+|---|---|---|---|---|
+|  2 | BİL102U  | TEMEL BİLGİ TEKNOLOJİLERİ II |
+|  2 | HUK110U  | BORÇLAR HUKUKU |
+|  2 | İKT104U  |  İKTİSADA GİRİŞ II |
+|  2 | İŞL106U  |  İŞLETME FONKSİYONLARI |
+|  2 | MAT106U  |  MATEMATİK II |
+|  2 | MUH104U  |  GENEL MUHASEBE II I  
+|  2 | SOS114U  |  DAVRANIŞ BİLİMLERİ II I
