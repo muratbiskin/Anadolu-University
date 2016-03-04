@@ -1,4 +1,4 @@
-|Yarıyıl|Ders Kodu|Ders İsmi|
+|Yarıyıl|Code|Ders İsmi|
 |---|---|---|---|---|
 |  1 | BİL101U  | TEMEL BİLGİ TEKNOLOJİLERİ I|
 |  1 | HUK101U  | HUKUKUN TEMEL KAVRAMLARI|
